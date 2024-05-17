@@ -4,10 +4,6 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
-    /*grid-area: nickname;*/
-    /*text-align: center;*/
-    /*color: white;*/
-    /*margin: 0;*/
     text-overflow: ellipsis;
     white-space: nowrap;
     overflow: hidden;
