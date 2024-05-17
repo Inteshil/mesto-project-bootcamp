@@ -1,0 +1,15 @@
+.card__caption-text {
+    color: black;
+    font-family: 'Inter', 'Arial', 'sans-serif';
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 29px;
+    max-width: 65%;
+    /*grid-area: nickname;*/
+    /*text-align: center;*/
+    /*color: white;*/
+    /*margin: 0;*/
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

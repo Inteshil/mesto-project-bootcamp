@@ -1,0 +1,7 @@
+.profile__username-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+    height: 4em;
+}

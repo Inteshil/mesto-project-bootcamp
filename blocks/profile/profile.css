@@ -1,0 +1,9 @@
+.profile {
+    display: flex;
+    flex-direction: row;
+    /*justify-content: space-between;*/
+    align-items: center;
+    height: 10%;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}

@@ -1,0 +1,30 @@
+@import "../vendor/normalize.css";
+@import "../vendor/fonts/fonts.css";
+
+@import "../blocks/page/page.css";
+
+@import "../blocks/header/header.css";
+@import "../blocks/header/__logo/header__logo.css";
+
+@import "../blocks/profile/profile.css";
+@import "../blocks/profile/__avatar/profile__avatar.css";
+@import "../blocks/profile/__text-container/profile__text-container.css";
+@import "../blocks/profile/__username-container/profile__username-container.css";
+@import "../blocks/profile/__username-text/profile__username-text.css";
+@import "../blocks/profile/__username-edit_button/profile__username-edit_button.css";
+@import "../blocks/profile/__additional-text/profile__additional-text.css";
+@import "../blocks/profile/__add-card-button/profile__add-card-button.css";
+
+@import "../blocks/cards/cards.css";
+@import "../blocks/card/card.css";
+@import "../blocks/card/__image/card__image.css";
+@import "../blocks/card/__caption/card__caption.css";
+@import "../blocks/card/__caption--text/card__caption--text.css";
+@import "../blocks/card/__caption-like-button/card__caption-like-button.css";
+
+@import "../blocks/footer/footer.css";
+@import "../blocks/footer/__text/footer__text.css";
+
+/*div {*/
+/*    border: 1px solid red;*/
+/*}*/
