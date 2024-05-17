@@ -25,6 +25,10 @@
 @import "../blocks/footer/footer.css";
 @import "../blocks/footer/__text/footer__text.css";
 
-/*div {*/
-/*    border: 1px solid red;*/
-/*}*/
+@import "../blocks/popup/popup.css";
+@import "../blocks/popup/__container/popup__container.css";
+@import "../blocks/popup/__form/popup__form.css";
+@import "../blocks/popup/__text/popup__text.css";
+@import "../blocks/popup/__input/popup__input.css";
+@import "../blocks/popup/__button/popup__button.css";
+@import "../blocks/popup/__close-button/popup__close-button.css";

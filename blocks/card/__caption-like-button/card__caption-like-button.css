@@ -8,6 +8,7 @@
     height: 19px;
     padding-right: 20%;
     opacity: 100%;
+    cursor: pointer;
 }
 
 .card__caption-like-button:hover {
