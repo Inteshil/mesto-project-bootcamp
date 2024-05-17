@@ -4,5 +4,11 @@
     /*border: 20px solid green;*/
     /*border-radius: 5%;*/
     width: 31%;
-    margin: 0.3% 1% 2% 1%;
+    margin: 0.3% 1.1% 2% 1.1%;
+}
+
+@media screen and (max-width: 650px) {
+    .card {
+        width: 90%;
+    }
 }

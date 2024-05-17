@@ -8,3 +8,7 @@
     height: 24px;
     margin-left: 1em;
 }
+
+.profile__username-edit-button:hover {
+    opacity: 50%;
+}
