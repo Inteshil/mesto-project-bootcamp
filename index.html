@@ -10,8 +10,8 @@
 <header class="header">
   <img class="header__logo" src="images/logo.svg" alt="Mesto.Russia">
 </header>
-<div class="main">
-  <div class="profile">
+<main class="main">
+  <section class="profile">
     <img class="profile__avatar" src="images/avatar.jpg" alt="Аватарка">
     <div class="profile__text-container">
       <div class="profile__username-container">
@@ -21,8 +21,8 @@
       <p class="profile__additional-text">Исследователь океана</p>
     </div>
     <button class="profile__add-card-button" type="button"></button>
-  </div>
-  <div class="cards">
+  </section>
+  <section class="cards">
     <div class="card">
       <img class="card__image" src="images/Karachaevsk_photo.png" alt="Ошибка загрузки картинки">
       <div class="card__caption">
@@ -65,8 +65,8 @@
         <button class="card__caption-like-button" type="button"></button>
       </div>
     </div>
-  </div>
-</div>
+  </section>
+</main>
 <footer class="footer">
   <p class="footer__text">&copy; 2024 Mesto Russia</p>
 </footer>
@@ -75,8 +75,8 @@
   <form class="popup__form">
     <div class="popup__container">
       <h2 class="popup__text">Редактировать профиль</h2>
-      <input class="popup__input" type="text" placeholder="Новое имя">
-      <input class="popup__input" type="text" placeholder="О себе">
+      <input class="popup__input" type="text" name="username" value="Жак-Ив Кусто">
+      <input class="popup__input" type="text" name="additional_info" value="Исследователь океана">
       <button class="popup__button" type="submit">Сохранить</button>
     </div>
   </form>

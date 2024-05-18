@@ -1,6 +1,6 @@
 .card__caption-like-button {
     background-color: rgba(0, 0, 0, 0);
-    background-image: url("/images/like-inactive.svg");
+    background-image: url("../../../images/like-inactive.svg");
     border: none;
     background-position: center;
     background-repeat: no-repeat;
@@ -16,6 +16,6 @@
 }
 
 .card__caption-like-button:active {
-    background-image: url("/images/like-active.svg");
+    background-image: url("../../../images/like-active.svg");
     opacity: 100%;
 }
