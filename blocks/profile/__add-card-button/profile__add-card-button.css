@@ -2,12 +2,14 @@
     background-color: rgba(0, 0, 0, 0);
     background-image: url("../../../images/add-card-button.svg");
     border: 2px solid white;
+    border-radius: 2px;
     background-position: center;
     background-repeat: no-repeat;
-    width: 17%;
-    height: 3.7rem;
+    width: 220px;
+    height: 50px;
     margin-left: auto;
     cursor: pointer;
+    padding: 0;
 }
 
 .profile__add-card-button:hover {
@@ -17,7 +19,8 @@
 @media screen and (max-width: 650px) {
     .profile__add-card-button {
         margin-left: 0;
-        width: 90%;
-        height: 3rem;
+        width: 282px;
+        height: 50px;
+        background-size: 16px 16px;
     }
 }

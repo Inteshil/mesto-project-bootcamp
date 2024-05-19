@@ -4,4 +4,14 @@
     justify-content: start;
     align-items: center;
     border-bottom: 1px solid rgba(54, 54, 54, 0.7);
+    max-width: var(--max-width);
+    margin: 45px auto 40px;
+}
+
+
+@media screen and (max-width: 650px) {
+    .header {
+        margin: 28px 0 42px;
+        max-width: 292px;
+    }
 }
