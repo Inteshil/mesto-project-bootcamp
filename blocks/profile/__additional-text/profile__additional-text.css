@@ -12,7 +12,8 @@
 
 @media screen and (max-width: 650px) {
     .profile__additional-text {
-        font-size: 80%;
+        font-size: 14px;
+        line-height: 17px;
         margin-bottom: 20%;
     }
 }

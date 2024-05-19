@@ -13,3 +13,12 @@
 .profile__username-edit-button:hover {
     opacity: 50%;
 }
+
+@media screen and (max-width: 650px) {
+    .profile__username-edit-button {
+        width: 18px;
+        height: 18px;
+        margin-left: 0;
+        border: 1px solid white;
+    }
+}
