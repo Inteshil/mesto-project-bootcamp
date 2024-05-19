@@ -14,12 +14,12 @@
 }
 
 .popup__button:hover {
-    opacity: 70%;
+    opacity: 80%;
 }
 
 @media screen and (max-width: 650px) {
     .popup__button {
-        font-size: 80%;
+        font-size: 14px;
         margin-top: 4%;
         margin-bottom: 8%;
         min-height: 46px;
