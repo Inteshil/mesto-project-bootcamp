@@ -13,7 +13,7 @@
 @import "../blocks/profile/__text-container/profile__text-container.css";
 @import "../blocks/profile/__username-container/profile__username-container.css";
 @import "../blocks/profile/__username-text/profile__username-text.css";
-@import "../blocks/profile/__username-edit_button/profile__username-edit_button.css";
+@import "../blocks/profile/__username-edit-button/profile__username-edit-button.css";
 @import "../blocks/profile/__additional-text/profile__additional-text.css";
 @import "../blocks/profile/__add-card-button/profile__add-card-button.css";
 
